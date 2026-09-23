@@ -4,7 +4,7 @@
 
   <p align="center">
     <b>Software Engineer | Machine Learning | Full-Stack Architect</b><br>
-    Tirupathi, Andhra Pradesh | <a href="mailto:jagdeeshthamba@gmail.com">jagdeeshthamba@gmail.com</a>[cite: 1]
+    Tirupathi, Andhra Pradesh | <a href="mailto:jagdeeshthamba@gmail.com">jagdeeshthamba@gmail.com</a>
   </p>
 
   <p align="center">
@@ -21,11 +21,11 @@
 
 ## 👨‍💻 `whoami`
 
-I am a results-driven Software Engineer with dual expertise in building full-stack web applications and deploying machine learning models[cite: 1]. I focus on writing clean, minimalist, and highly optimized code, whether I'm solving competitive programming challenges in C/C++ or architecting scalable REST APIs. 
+I am a results-driven Software Engineer with dual expertise in building full-stack web applications and deploying machine learning models. I focus on writing clean, minimalist, and highly optimized code, whether I'm solving competitive programming challenges in C/C++ or architecting scalable REST APIs. 
 
 * 🚀 **Currently Executing:** **CropGuard (FarmShield AI)** – an AI-powered agricultural disease detection platform.
 * 🧠 **Research & Focus:** Advanced deep learning, multi-dimensional tensor operations, and performance optimization.
-* 💼 **Experience:** Machine Learning Intern at **Prodigy InfoTech** (achieved 100% completion rate and improved model accuracy by 20%)[cite: 1].
+* 💼 **Experience:** Machine Learning Intern at **Prodigy InfoTech** (achieved 100% completion rate and improved model accuracy by 20%).
 
 <br/>
 
@@ -35,15 +35,15 @@ I am a results-driven Software Engineer with dual expertise in building full-sta
   <tr>
     <td align="center" width="33%">
       <h3>🌐 Full-Stack</h3>
-      <p>React, FastAPI, Node.js, HTML/CSS</p>[cite: 1]
+      <p>React, FastAPI, Node.js, HTML/CSS</p>
     </td>
     <td align="center" width="33%">
       <h3>🧠 AI & Data</h3>
-      <p>TensorFlow, Scikit-learn, NLP</p>[cite: 1]
+      <p>TensorFlow, Scikit-learn, NLP</p>
     </td>
     <td align="center" width="33%">
       <h3>🛠️ Core Toolkit</h3>
-      <p>Python, Java, JavaScript, SQL, C/C++</p>[cite: 1]
+      <p>Python, Java, JavaScript, SQL, C/C++</p>
     </td>
   </tr>
 </table>
@@ -55,19 +55,19 @@ I am a results-driven Software Engineer with dual expertise in building full-sta
 <details>
   <summary><b>💼 JobTrack | React, FastAPI, SQL</b></summary>
   <br>
-  A full-stack job application tracker engineered with secure user authentication, CRUD operations, dynamic dashboard analytics, and persistent database integration[cite: 1]. Deployed seamlessly via GitHub and Render[cite: 1, 2].
+  A full-stack job application tracker engineered with secure user authentication, CRUD operations, dynamic dashboard analytics, and persistent database integration. Deployed seamlessly via GitHub and Render.
 </details>
 
 <details>
   <summary><b>💵 Indian Currency Classifier | MobileNetV2, TFLite</b></summary>
   <br>
-  An offline Android application leveraging a fine-tuned MobileNetV2 model to detect counterfeit currency[cite: 1]. Achieved <b>94.04% accuracy</b> and reduced model footprint by 4x using TFLite quantization for sub-100ms inference[cite: 1].
+  An offline Android application leveraging a fine-tuned MobileNetV2 model to detect counterfeit currency. Achieved <b>94.04% accuracy</b> and reduced model footprint by 4x using TFLite quantization for sub-100ms inference.
 </details>
 
 <details>
   <summary><b>📝 Intelligent NLP Autocomplete | Word2Vec, NLTK</b></summary>
   <br>
-  A text prediction engine handling 50K+ inputs via robust tokenization[cite: 1]. Built using N-gram models and Word2Vec embeddings, accelerating response performance by 25% through optimized logic[cite: 1].
+  A text prediction engine handling 50K+ inputs via robust tokenization. Built using N-gram models and Word2Vec embeddings, accelerating response performance by 25% through optimized logic.
 </details>
 
 <br/>
@@ -75,6 +75,6 @@ I am a results-driven Software Engineer with dual expertise in building full-sta
 ## 📈 `system_metrics`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thambajagadeesh&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thambajagadeesh&theme=radical&hide_border=true" alt="Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thambajagadeesh&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thambajagadeesh&theme=radical&hide_border=true" alt="Streak" />
 </div>
