@@ -1,65 +1,84 @@
 <div align="center">
-  <h1>Hi there, I'm Jagadeesh Thamba 👋</h1>
-  <h3>Full-Stack Developer | Machine Learning Enthusiast</h3>
-  <p>Bridging the gap between intelligent AI models and scalable web architectures.</p>
 
-  <a href="https://linkedin.com/in/jagadeeshthamba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jagdeeshthamba@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&center=true&vCenter=true&width=800&height=70&duration=4000&color=2F80ED&lines=Hi+there,+I'm+Jagadeesh+Thamba+👋;Full-Stack+Architect+|+ML+Practitioner;Building+Scalable+Web+Applications;Training+Intelligent+AI+Models" alt="Typing SVG" />
+
+  <p align="center">
+    <b>Architecting the bridge between complex data and elegant user experiences.</b><br>
+    Tirupathi, Andhra Pradesh | <a href="mailto:jagdeeshthamba@gmail.com">jagdeeshthamba@gmail.com</a>[cite: 1]
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/jagadeeshthamba">
+      <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Thambajagadeesh">
+      <img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 🪐 The Orbit
 
-I am a software engineer focused on building end-to-end applications and optimizing machine learning workflows. Whether I'm fine-tuning deep learning models or architecting RESTful APIs, I thrive on solving complex algorithmic challenges and delivering clean, production-ready code.
+I am a software engineer who speaks both the language of web browsers and neural networks. From optimizing competitive programming algorithms in **C/C++** to designing end-to-end applications with **React and FastAPI**[cite: 1], I build systems that are not just functional, but intelligent. 
 
-* 🚀 **Currently building:** **CropGuard (FarmShield AI)** – an AI-powered crop disease detection platform.
-* 🧠 **Exploring:** Advanced deep learning, multi-dimensional tensor transformations, and high-performance competitive programming (C/C++).
-* 💼 **Previously:** Machine Learning Intern at Prodigy InfoTech, where I built predictive models with a focus on high accuracy and data handling.
-* 🗣️ **Languages:** English, Telugu. 
+* 🔭 **Mission Control:** Currently architecting **CropGuard (FarmShield AI)**, an AI-powered agricultural disease detection platform.
+* 🧩 **Deep Dive:** Exploring tensor transformations, NLP pipelines, and TFLite model quantization[cite: 1].
+* 🏆 **Recent Milestones:** Completed an intensive Machine Learning internship at **Prodigy InfoTech**, boosting model prediction accuracy by 20%[cite: 1].
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## 💻 Tech Arsenal
 
-**Languages:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌐 Full-Stack</h3>
+      <p>React, FastAPI, Node.js, HTML/CSS</p>[cite: 1]
+    </td>
+    <td align="center" width="33%">
+      <h3>🧠 AI & Data</h3>
+      <p>TensorFlow, Scikit-learn, OpenCV, NLP</p>[cite: 1]
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠️ Core Toolkit</h3>
+      <p>Python, Java, JavaScript, SQL, C++</p>[cite: 1]
+    </td>
+  </tr>
+</table>
 
-**Frontend & Backend:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<br/>
 
-**Machine Learning & Tools:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 🚀 Featured Deployments
 
----
+<details>
+  <summary><b>💼 JobTrack: Full-Stack Application Ecosystem</b></summary>
+  <br>
+  A comprehensive job application tracker built with <b>React</b> and <b>FastAPI</b>[cite: 1, 2]. Engineered with secure user authentication, dynamic dashboard analytics, and persistent SQL database integration[cite: 1]. Deployed seamlessly via GitHub and Render[cite: 1].
+</details>
 
-## 📈 GitHub Analytics
+<details>
+  <summary><b>💵 Indian Currency Classifier (AI Android App)</b></summary>
+  <br>
+  An offline-first Android application leveraging a fine-tuned <b>MobileNetV2</b> model to detect counterfeit currency in real-time[cite: 1]. Achieved <b>94.04% accuracy</b> and reduced model footprint by 4x using TFLite quantization for sub-100ms inference speeds[cite: 1].
+</details>
+
+<details>
+  <summary><b>📝 Intelligent NLP Autocomplete Engine</b></summary>
+  <br>
+  A text prediction system handling 50K+ inputs via robust tokenization[cite: 1]. Built using <b>N-gram models</b> and <b>Word2Vec embeddings</b>, accelerating response performance by 25% through optimized backend logic[cite: 1].
+</details>
+
+<br/>
+
+## 📊 Telemetry (GitHub Stats)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thambajagadeesh&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=ffffff&icon_color=2F80ED&bg_color=0d1117" alt="Jagadeesh's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thambajagadeesh&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thambajagadeesh&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&icon_color=7aa2f7&bg_color=1a1b26" alt="Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thambajagadeesh&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&icon_color=7aa2f7&sideNums=c0caf5&sideLabels=c0caf5&ring=7aa2f7&fire=7aa2f7&currStreakNum=c0caf5&bg_color=1a1b26" alt="Streak" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thambajagadeesh&theme=transparent&hide_border=true&title_color=2F80ED&text_color=ffffff&icon_color=2F80ED&sideNums=ffffff&sideLabels=ffffff&ring=2F80ED&fire=2F80ED&currStreakNum=ffffff&bg_color=0d1117" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Featured Projects
-
-* **[JobTrack](https://github.com/Thambajagadeesh/JobTrack):** A full-stack job application tracker utilizing React and FastAPI with secure authentication and dynamic dashboard analytics.
-* **[Indian Currency Classifier](#):** An offline Android AI app using fine-tuned MobileNetV2 and TFLite quantization for real-time counterfeit detection (94% accuracy).
-* **[NLP Autocomplete System](#):** A text prediction engine handling 50K+ inputs efficiently, built with N-gram models and Word2Vec embeddings.
+<p align="center">
+  <i>"A machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."</i>
+</p>
